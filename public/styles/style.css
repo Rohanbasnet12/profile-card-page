@@ -49,8 +49,9 @@ body {
 
 /* profile-card Styling */
 #profile-card {
-    background: var(--GREY);
+    background: var(--DARK-GREY);
     max-width: 350px;
+    min-height: 598px;
 }
 
 .img {
@@ -85,7 +86,7 @@ body {
 
 /* STYLING DESCRIPTION SECTION */
 .btn {
-    background: var(--DARK-GREY);
+    background: var(--GREY);
     transition: all .2s;
 }
 
